@@ -1,12 +1,21 @@
 # AWSreStart001
 ## Projects
-groupmembers = ["Norah","Abdi","Terrance","Swati",:Erika"]
+groupmembers = ["Norah","Abdi","Terrance","Swati","Erika"]
 print(groupmembers)
 print(groupmembers[0]
 print(groupmembers[1])
 print(groupmembers[2])
 print(groupmembers[3])
 print(groupmembers[4])
+
+##Programming langauges
+topcs=[linux python awsservices databses]
+echo ${topics[0]}
+echo ${topics[1]}
+echo ${topics[2]}
+echo ${topics[3]}
+
+
 
 ## Code for RPS Game 
 #from random import choice
@@ -34,3 +43,5 @@ if computer == ("rock"):
   if rps == ("scissors"):
     print("Nooooo!! You lost")
 print("Thanks for playing!")
+
+
