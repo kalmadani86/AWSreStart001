@@ -44,4 +44,4 @@ if computer == ("rock"):
     print("Nooooo!! You lost")
 print("Thanks for playing!")
 
-
+# rm is for remove in Linux
