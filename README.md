@@ -44,4 +44,13 @@ if computer == ("rock"):
     print("Nooooo!! You lost")
 print("Thanks for playing!")
 
+## command list 
+
+1. cat
+2. pwd
+3. ls
+4. grep
+5. find
+6. ls -la
+7. ls
 
