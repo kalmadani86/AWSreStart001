@@ -54,3 +54,9 @@ print("Thanks for playing!")
 6. ls -la
 7. ls
 
+## Special Symbols in Linux
+1. &
+2. &&
+3. ?
+4. :
+5. ;
