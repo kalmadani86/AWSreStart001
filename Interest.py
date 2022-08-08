@@ -17,3 +17,5 @@ if name == "Abdi":
   print(name, 'is intrested in', awscourses[0])
 if name == "Erika":
     print(name,'is intrested in', awscourses[3])
+ if name != (groupmembers):
+  print('member is not part of this group')
